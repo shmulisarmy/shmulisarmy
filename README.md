@@ -1,6 +1,6 @@
 # my name is <br> shmuli keller </br>
 
-## language
+## languages
 
 - [x] python
 - [x] js and jsx
