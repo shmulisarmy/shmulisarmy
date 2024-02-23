@@ -8,8 +8,8 @@
 - [x] css
 - [x] go
 
-my favorite leet code to solve
-**minimum cost to make new meeting**,
+my favorite leet code to solve is
+**minimum cost to make new meeting**
 
 ```go
 
