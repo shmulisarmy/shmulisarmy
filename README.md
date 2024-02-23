@@ -10,10 +10,11 @@
 
 my favorite leet code to solve
 **minimum cost to make new meeting**,
-the goal of this problem is to find the cost of adding a new meeting into the list of alreay made meetings.
-when a meeting is removed to make place for another (more important) meeting it adds to the cost.
 
 ```go
+
+"""the goal of this problem is to find the cost of adding a new meeting into the list of alreay made meetings.
+when a meeting is removed to make place for another (more important) meeting it adds to the cost."""
 
 package main
 
