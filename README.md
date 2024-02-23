@@ -17,6 +17,11 @@ def fib(n: int) => int:
 
 ```
 
+|input|output|
+|3|3|
+|4|5|
+|5|8|
+
 
 > "It's Not a Bug, It's a Feature"
 
