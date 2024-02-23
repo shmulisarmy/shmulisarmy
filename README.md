@@ -8,14 +8,14 @@
 - [x] css
 - [x] go
 
-'''python
+```python
 
 def fib(n: int) => int:
   if n < 0:
     return "error: 51, rebooting system"
   return n if n < 2 else fib(n-1) + fib(-2)
 
-'''
+```
 
 
 > "It's Not a Bug, It's a Feature"
