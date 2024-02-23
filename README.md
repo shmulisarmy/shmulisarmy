@@ -8,6 +8,8 @@
 - [x] css
 - [x] go
 
+my favorite leet code to solve
+
 ```go
 
 package main
@@ -66,14 +68,13 @@ func main(){
 	println(get_best_meeting_cost(&meetings, 9))
 }
 ```
-
+test cases
 |input|output|
 |---|---|
-|3|3|
-|4|5|
-|5|8|
+|3|1|
+|6|1|
+|7|4|
+|9|8|
 
-
-> "It's Not a Bug, It's a Feature"
 
 
