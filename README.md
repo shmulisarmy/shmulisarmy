@@ -2,17 +2,20 @@
 
 ## languages
 
-- [x] python
-- [x] js and jsx
-- [x] html and htmx
-- [x] css
-- [x] go
+- [x] go (what i'd chose when making a secure reliable product)
+- [x] js (including ts and jsx, top for building ui)
+- [x] python (best for quick scripts and prototyping ideas)
 
 my favorite leet code to solve is
 **minimum cost to make new meeting**
 
-```go
 
+top projects: 
+	https://github.com/shmulisarmy/compiler - turns code written in the bob language into js and c++ 
+
+
+some leetcode stuff...
+```go
 """the goal of this problem is to find the cost of adding a new meeting into the list of already made meetings.
 when a meeting is removed to make place for another (more important) meeting it adds to the cost."""
 
@@ -65,7 +68,6 @@ func main(){
 		{14,14,0},
 	}
 
-	//pass a refrence to meetings as to not recreate the entire array in memory.
 	println(get_best_meeting_cost(&meetings, 3))
 	println(get_best_meeting_cost(&meetings, 6))
 	println(get_best_meeting_cost(&meetings, 7))
